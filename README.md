@@ -1,8 +1,8 @@
-<a href="https://github.com/LogicJake">
+<a href="https://github.com/PerpetualSmile">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=PerpetualSmile&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
-<a href="https://github.com/LogicJake">
+<a href="https://github.com/PerpetualSmile">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=PerpetualSmile&layout=compact" />
 </a>
