@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="https://github.com/LogicJake">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=PerpetualSmile&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+</a>
 
-<!--
-**PerpetualSmile/PerpetualSmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/LogicJake">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=PerpetualSmile&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:trophy: Competition
+  - 2020腾讯广告算法大赛 Top19 [Code](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
