@@ -1,9 +1,9 @@
 <a href="https://github.com/PerpetualSmile">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=PerpetualSmile&show_icons=truet&include_all_commits=True&theme=radical"/>
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=PerpetualSmile&show_icons=true&include_all_commits=True&hide=contribs" />
 </a>
 
 <a href="https://github.com/PerpetualSmile">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=PerpetualSmile&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=PerpetualSmile&layout=compact" />
 </a>
 
 <br>
