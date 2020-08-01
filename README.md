@@ -11,4 +11,4 @@
 <br>
 
 :trophy: Competition
-  - 2020腾讯广告算法大赛 Top19 [Code](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
+  - 2020腾讯广告算法大赛 Rank19 [Code](https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19)
